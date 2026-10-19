@@ -1,0 +1,2 @@
+# Healthcare-Revenue-Cycle-Patient-Operations-Analytics-with-Predictive-Risk-Analysis---
+Healthcare Revenue Cycle &amp; Claim Denial Analytics project using SQL, Python, Machine Learning, and Power BI. Analyzes healthcare claims, revenue performance, denial trends, and outstanding payments, and predicts claim denial risk using classification algorithms. data cleaning, EDA, business insights, model evaluation, and interactive dashboard
